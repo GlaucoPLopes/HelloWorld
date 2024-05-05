@@ -1,5 +1,23 @@
+h1{
+    color: orangered;
+    text-align: center;
+}
+
 h2{
-    color:orange;
+    color: orange;
+    text-align: center;
+}
+
+h5{
+    font-family: Arial;
+    color: black;
+    text-align: center; 
+}
+
+h6{
+    font-family: Arial;
+    color: black;
+    text-align: center;
 }
 
 body{
@@ -8,6 +26,13 @@ body{
     font-family: Arial;
     text-align: left;
 }
+    
+img {
+        display: block;   /* Define a imagem como um bloco para que as margens laterais automáticas funcionem */
+        margin: 0 auto;   /* Define as margens superior e inferior como 0 e as laterais como automática para centralizar a imagem */
+        max-width: 60%;   /* Define a largura máxima como 60% do contêiner pai */
+        height: auto;     /* Mantém a proporção da imagem */
+    }
 
 header{
     border-bottom: 1px solid grey;
