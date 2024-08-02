@@ -1,4 +1,4 @@
 # HelloWorld
 Olá, me chamo **Glauco**
 Welcome to my Github
-Currently, I am pursuing a degree in the IT area, more specifically, Systems Analysis and Development at FATEC (Faculty of Technology of São Paulo). Brazil
+I´m currently studing Information Technology, focusing on Systems Analysis and Development at FATEC (Faculty of Technology of São Paulo) in Franca, São Paulo, Brazil
